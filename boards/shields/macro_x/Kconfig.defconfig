@@ -1,0 +1,6 @@
+if SHIELD_MACRO_X
+
+config ZMK_KEYBOARD_NAME
+    default "macro_x"
+
+endif
